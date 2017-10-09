@@ -1,4 +1,4 @@
-Git Course
+<h1>Git Course</h1>
 
 Este é um repositório teste para aprender como o git funciona.
 
