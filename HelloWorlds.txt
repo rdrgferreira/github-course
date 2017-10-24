@@ -1,0 +1,4 @@
+#C -> printf("Hello World!");
+#C++ -> cout << "Hello World!";
+#Python -> print("Hello World!")
+
