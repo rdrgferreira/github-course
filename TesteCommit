@@ -1,0 +1,11 @@
+#C
+printf("Hello World!\n");
+
+#C++
+cout << "Hello World!\n" << endl;
+
+#C#
+Console.WriteLine("Hello World!");
+
+#Java
+System.out.println("Hello World!");
