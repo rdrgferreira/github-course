@@ -1,4 +1,5 @@
 #C -> printf("Hello World!");
 #C++ -> cout << "Hello World!";
 #Python -> print("Hello World!")
-
+#Java -> System.out.println("Hello World!");
+#Javascript -> console.log("Hello World!");
